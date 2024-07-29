@@ -1,3 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow
-Hello this is Dean , I think and he is on this Academy to hopefully get a job at the end
+![fiona-PEJHMgx_ilo-unsplash](https://github.com/user-attachments/assets/513c44a3-1583-4a68-9f00-2b12bf8c1bf1)
